@@ -1,5 +1,5 @@
-# Computer-Vision_Change-Detection
-An implementation of the research paper "A Mamba-based Siamese Network for Remote Sensing Change Detection" by Jay N. Paranjape, Celso de Melo, and Vishal M. Patel.
+# Computer Vision Change Detection
+This is an implementation of the research paper "A Mamba-based Siamese Network for Remote Sensing Change Detection" by Jay N. Paranjape, Celso de Melo, and Vishal M. Patel.
 - [paper](https://openaccess.thecvf.com/content/WACV2025/papers/Paranjape_A_Mamba-Based_Siamese_Network_for_Remote_Sensing_Change_Detection_WACV_2025_paper.pdf)
 - [github](https://github.com/JayParanjape/M-CD)
 
