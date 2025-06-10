@@ -10,11 +10,11 @@ The following are the publicly available datasets
 - [WHU-CD](https://www.dropbox.com/s/r76a00jcxp5d3hl/WHU-CD-256.zip?dl=0)
 - [CDD](https://www.dropbox.com/s/ls9fq5u61k8wxwk/CDD.zip?dl=0)
 
-### As this was a school project and with limited resources, we used truncated versions of these datasets. They can be found [here](https://drive.google.com/drive/folders/1HLgNcUADIX6XoCNQLJPDpTX_WTxkhad9).
+As this was a school project and with limited resources, we used truncated versions of these datasets. They can be found [here](https://drive.google.com/drive/folders/1HLgNcUADIX6XoCNQLJPDpTX_WTxkhad9). <br><br>
 
-### To run the current notebook `change_detection.ipynb`, upload the notebook to a Google Colab with a GPU runtime, then upload the desired datasets from the above [link](https://drive.google.com/drive/folders/1HLgNcUADIX6XoCNQLJPDpTX_WTxkhad9). In the notebook there is a section to comment out or define the datasets you'd like to include in training the model.
+To run the current notebook `change_detection.ipynb`, upload the notebook to a Google Colab with a GPU runtime, then upload the desired datasets from the above [link](https://drive.google.com/drive/folders/1HLgNcUADIX6XoCNQLJPDpTX_WTxkhad9). In the notebook there is a section to comment out or define the datasets you'd like to include in training the model. <br><br>
 
-#### (A separate file that can be run directly on a computer will be added in the future)
+(A separate file that can be run directly on a computer will be added in the future)
 
 # The following shows a few outputs of our trained model on the four datasets.
 
